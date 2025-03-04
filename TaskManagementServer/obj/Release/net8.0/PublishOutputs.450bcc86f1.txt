@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\TaskManagementServer.exe
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\tasks.json
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\TaskManagementServer.dll
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\TaskManagementServer.deps.json
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\TaskManagementServer.runtimeconfig.json
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\TaskManagementServer.pdb
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\source\repos\TaskManagementServer\TaskManagementServer\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

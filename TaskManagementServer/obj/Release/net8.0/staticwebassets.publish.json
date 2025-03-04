@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "g75D7pJN+opA/vuTx/DhSifVI6OL0VXAWaGYsZmX/CY=",
+  "Source": "TaskManagementServer",
+  "BasePath": "_content/TaskManagementServer",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
